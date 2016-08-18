@@ -1,0 +1,26 @@
+/*#fav-logo {
+  height: 100%;
+  margin: 0;
+  padding: 16px 0 0 60px;
+  text-align: center;
+}*/
+
+#fav-nav .navigation {
+	margin-top: 40px;
+}
+
+#fav-nav .navigation li a {
+color: #ff4f1e;
+}
+
+#fav-nav .navigation .nav-pills > .active > a, #fav-nav .navigation .nav-pills > li > a:hover, #fav-nav .navigation .nav-pills > li > a:focus {
+background-color: #FF1117;}
+
+#fav-container {
+	background-color: #222;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	-moz-box-shadow: 0 0 60px 0 rgba(0,0,0,.47);
+	-webkit-box-shadow: 0 0 60px 0 rgba(0,0,0,.47);
+	box-shadow: 0 0 60px 0 rgba(0,0,0,.47);
+}
